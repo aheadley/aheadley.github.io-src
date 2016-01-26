@@ -1,8 +1,8 @@
 Title: Animu Stuff
 Date: 2011-01-10 14:31
-Author: aheadley
+Author: Alex Headley
 Category: Anime
-Tags: review
+Tags: anime, review
 Slug: animu-stuff
 Status: published
 

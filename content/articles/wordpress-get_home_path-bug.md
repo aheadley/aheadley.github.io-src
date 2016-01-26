@@ -1,6 +1,6 @@
 Title: Wordpress get_home_path bug
 Date: 2010-03-19 00:41
-Author: aheadley
+Author: Alex Headley
 Category: Internet
 Tags: patch, php, wordpress
 Slug: wordpress-get_home_path-bug

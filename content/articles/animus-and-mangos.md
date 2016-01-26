@@ -1,8 +1,8 @@
 Title: Animus and Mangos
 Date: 2012-07-09 01:04
-Author: aheadley
-Category: Anime, Manga
-Tags: anime, logh, manga, nasu, oyasumi punpun
+Author: Alex Headley
+Category: Anime
+Tags: anime, logh, manga, nasu, oyasumi punpun, review
 Slug: animus-and-mangos
 Status: published
 

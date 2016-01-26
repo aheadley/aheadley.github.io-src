@@ -1,6 +1,6 @@
 Title: That's a nice ssssssssssssssssscript you got there...
 Date: 2010-08-10 06:20
-Author: aheadley
+Author: Alex Headley
 Category: Internet, Linux
 Tags: minecraft, python
 Slug: thats-a-nice-ssssssssssssssssscript-you-got-there

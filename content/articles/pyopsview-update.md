@@ -1,6 +1,6 @@
 Title: pyOpsview Update
 Date: 2010-09-16 01:15
-Author: aheadley
+Author: Alex Headley
 Category: Internet, Linux
 Tags: minecraft, python
 Slug: pyopsview-update

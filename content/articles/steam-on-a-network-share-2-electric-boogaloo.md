@@ -1,6 +1,6 @@
 Title: Steam on a Network Share 2: Electric Boogaloo
 Date: 2012-02-03 11:53
-Author: aheadley
+Author: Alex Headley
 Category: Gaming, Linux, Windows
 Tags: fedora, iscsi, lvm, ntfs, steam
 Slug: steam-on-a-network-share-2-electric-boogaloo

@@ -1,6 +1,6 @@
 Title: SecuROM is the Cancer Killing the PC Gaming Industry
 Date: 2012-02-18 21:36
-Author: aheadley
+Author: Alex Headley
 Category: Gaming, Rant, Windows
 Tags: digital distribution, drm, iscsi, piracy, securom, steam
 Slug: securom-is-the-cancer-killing-the-pc-gaming-industry

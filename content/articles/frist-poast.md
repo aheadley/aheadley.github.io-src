@@ -1,6 +1,6 @@
 Title: Frist Poast
 Date: 2009-07-28 18:00
-Author: aheadley
+Author: Alex Headley
 Category: Personal
 Slug: frist-poast
 Status: published

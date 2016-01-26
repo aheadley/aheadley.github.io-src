@@ -1,8 +1,8 @@
 Title: Animu Stuff: Spring '11
 Date: 2011-04-29 20:31
-Author: aheadley
+Author: Alex Headley
 Category: Anime
-Tags: review
+Tags: anime, review
 Slug: animu-stuff-spring-11
 Status: published
 

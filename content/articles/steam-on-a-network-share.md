@@ -1,6 +1,6 @@
 Title: Steam on a Network Share
 Date: 2011-11-12 19:28
-Author: aheadley
+Author: Alex Headley
 Category: Gaming, Windows
 Tags: nfs, ntfs, samba, smb, steam
 Slug: steam-on-a-network-share

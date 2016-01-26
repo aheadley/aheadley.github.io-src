@@ -1,7 +1,7 @@
 Title: PHP PCRE and Unicode Properties
 Date: 2011-03-15 19:47
-Author: aheadley
-Category: Internet, Linux
+Author: Alex Headley
+Category: Linux
 Tags: php, regex, unicode
 Slug: php-pcre-and-unicode-properties
 Status: published

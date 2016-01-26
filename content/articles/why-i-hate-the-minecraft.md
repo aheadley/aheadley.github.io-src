@@ -1,6 +1,6 @@
 Title: Why I hate the Minecraft
 Date: 2011-03-15 19:38
-Author: aheadley
+Author: Alex Headley
 Category: Gaming, Internet, Rant
 Tags: minecraft, multiplayer, notch
 Slug: why-i-hate-the-minecraft

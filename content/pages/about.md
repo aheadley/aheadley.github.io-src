@@ -1,6 +1,6 @@
 Title: About
 Date: 2009-07-14 15:11
-Author: aheadley
+Author: Alex Headley
 Slug: about
 Status: published
 

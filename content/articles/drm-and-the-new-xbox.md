@@ -1,6 +1,6 @@
 Title: DRM and the new XBOX
 Date: 2013-05-24 12:41
-Author: aheadley
+Author: Alex Headley
 Category: Gaming
 Tags: drm, xbox
 Slug: drm-and-the-new-xbox

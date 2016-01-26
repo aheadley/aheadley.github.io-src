@@ -1,6 +1,6 @@
 Title: Things and Stuff
 Date: 2011-01-10 13:52
-Author: aheadley
+Author: Alex Headley
 Category: Gaming, Internet, Linux
 Tags: django, github, irc, killing floor, opsview, php, python, world of warcraft
 Slug: things-and-stuff

@@ -1,15 +1,13 @@
 Title: lolSVN
 Date: 2009-08-23 19:42
-Author: aheadley
-Category: Internet
+Author: Alex Headley
+Category: Development
 Tags: subversion
 Slug: lolsvn
 Status: published
 
 So I was bored today and cludged together a little URL
-shortener/redirecter/whatever-you-want-to-call-it:
-
-http://xen.im/
+[shortener/redirecter/whatever-you-want-to-call-it](http://xen.im/)
 
 It uses hexadecimal for the ID numbers though it would take all of a few
 seconds to change it to use any other system. I was pretty disappointed

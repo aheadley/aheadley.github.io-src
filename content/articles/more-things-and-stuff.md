@@ -1,7 +1,7 @@
 Title: More Things and Stuff
 Date: 2012-07-10 23:38
-Author: aheadley
-Category: Internet, Linux, Tech
+Author: Alex Headley
+Category: Development
 Tags: hesperus, interworx, irc, ircbot, packagetrack, python, shellinabox, shipping
 Slug: more-things-and-stuff
 Status: published
